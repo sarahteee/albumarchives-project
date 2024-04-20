@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "66233abed75227d456b818cc"
+  },
+  "title": "Goodbye Yellow Brick Road",
+  "artist": "Elton John",
+  "year": "1973",
+  "genre": "Pop",
+  "imageUrl": "https://live.staticflickr.com/1051/912187319_4f5e551cd4_z.jpg"
+},
+{
+  "_id": {
+    "$oid": "66233abed75227d456b818cd"
+  },
+  "title": "Come On Over",
+  "artist": "Shania Twain",
+  "year": "1997",
+  "genre": "Country",
+  "imageUrl": "https://i0.wp.com/theseconddisc.com/wp-content/uploads/2010/04/come-on-over-international4.jpg?ssl=1"
+},
+{
+  "_id": {
+    "$oid": "66233abed75227d456b818ce"
+  },
+  "title": "Hotel California",
+  "artist": "Eagles",
+  "year": "1976",
+  "genre": "Rock",
+  "imageUrl": "https://i.ebayimg.com/images/g/aq4AAOSw4TVdwZ3T/s-l1600.jpg"
+},
+{
+  "_id": {
+    "$oid": "66233abed75227d456b818cf"
+  },
+  "title": "Rumours",
+  "artist": "Fleetwood Mac",
+  "year": "1977",
+  "genre": "Rock",
+  "imageUrl": "https://faroutmagazine.co.uk/static/uploads/1/2020/10/Fleetwood-mac-rumours.jpg"
+},
+{
+  "_id": {
+    "$oid": "66233abed75227d456b818d0"
+  },
+  "title": "Born in the U.S.A.",
+  "artist": "Bruce Springsteen",
+  "year": "1984",
+  "genre": "Rock",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/31/BruceBorn1984.JPG"
+},
+{
+  "_id": {
+    "$oid": "66233abed75227d456b818d1"
+  },
+  "title": "1989",
+  "artist": "Taylor Swift",
+  "year": "2014",
+  "genre": "Pop",
+  "imageUrl": "https://lastfm.freetls.fastly.net/i/u/ar0/33a04bf99f129b944dd641dbfb4ba433.jpg"
+},
+{
+  "_id": {
+    "$oid": "66233abed75227d456b818d3"
+  },
+  "title": "Purple Rain",
+  "artist": "Prince",
+  "year": "1984",
+  "genre": "Pop",
+  "imageUrl": "https://yooplay.fr/wp-content/uploads/2023/01/Comment-jouer-Purple-Rain-de-Prince-.jpg"
+},
+{
+  "_id": {
+    "$oid": "66233abed75227d456b818d4"
+  },
+  "title": "The Fame",
+  "artist": "Lady Gaga",
+  "year": "2008",
+  "genre": "Pop",
+  "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb8bbcc15130ec9f01aa204c"
+},
+{
+  "_id": {
+    "$oid": "66233abed75227d456b818d5"
+  },
+  "title": "Lemonade",
+  "artist": "Beyoncé",
+  "year": "2016",
+  "genre": "Pop",
+  "imageUrl": "https://static.rawckus.com/wp-content/uploads/2016/05/beyoncelemonadealbumartwork.jpg"
+}]
