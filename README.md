@@ -2,7 +2,7 @@
 
 Album Archives is a web application for exploring famous pop music albums.
 
-<img src="aa-homepage" alt="AlbumArchives Homepage" width="400"/>
+<img src="aa-homepage.png" alt="AlbumArchives Homepage" width="400"/>
 
 ## Setup and Running the Project
 
